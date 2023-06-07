@@ -6,7 +6,7 @@ Our project report is in `455 Final Project Report.pdf`
 
 ### Some Useful Links
 Website: https://calebhuangsea.github.io./bird/bird.html <br>
-Video Presentation: https://youtu.be/1OTfzJRL9zU <br>
+Video Presentation: [https://youtu.be/1OTfzJRL9zU](https://youtu.be/KjFzlKsHTUw) <br>
 Kaggle Competition Website: https://www.kaggle.com/competitions/birds23sp
 
 ### Some Code References
