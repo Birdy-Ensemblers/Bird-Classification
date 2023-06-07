@@ -2,7 +2,7 @@
 
 ### File Description
 Our code is in `bird-classification.ipynb` <br>
-A comprehensive description about our project is in `455 Final Project Report.pdf`
+A comprehensive description of our project is in `455 Final Project Report.pdf`
 
 ### Some Useful Links
 Website: https://calebhuangsea.github.io./bird/bird.html <br>
