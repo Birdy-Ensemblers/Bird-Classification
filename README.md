@@ -1,7 +1,7 @@
 # Bird Classification
 
 ### File Description
-Our code is in file `bird-classification.ipynb` \\
+Our code is in file `bird-classification.ipynb` <br>
 Our project report is in `455 Final Project Report.pdf` \\
 
 ### Some Useful Links
