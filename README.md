@@ -15,4 +15,4 @@ Training and Prediction Template: https://www.kaggle.com/code/pjreddie/transfer-
 Ensemble Template: https://github.com/parkr98/Bird_Identification
 
 ### Comments
-Since this is a code competition that is held every time CSE 455 is scheduled, we will only post our code skeleton and general ideas to avoid blind copying. We strongly encourage other competitors to explore the data and train their own models, so our model weights and final submission files will not be posted in this repository.
+Since this is a code competition that is held every time CSE 455 is scheduled, we will only post our code skeleton and general ideas to avoid blind copying. We strongly encourage other competitors to explore the data and train different models themselves, so our model weights and final submission files will not be posted in this repository.
