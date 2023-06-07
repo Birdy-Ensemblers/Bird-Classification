@@ -2,16 +2,16 @@
 
 ### File Description
 Our code is in file `bird-classification.ipynb` <br>
-Our project report is in `455 Final Project Report.pdf` \\
+Our project report is in `455 Final Project Report.pdf`
 
 ### Some Useful Links
-Website: https://calebhuangsea.github.io./bird/bird.html \\
-Video Presentation: https://youtu.be/1OTfzJRL9zU \\
-Kaggle Competition Website: https://www.kaggle.com/competitions/birds23sp \\
+Website: https://calebhuangsea.github.io./bird/bird.html <br>
+Video Presentation: https://youtu.be/1OTfzJRL9zU <br>
+Kaggle Competition Website: https://www.kaggle.com/competitions/birds23sp
 
 ### Some Code References
-Data Preprocessing Template: https://www.kaggle.com/code/yuriihalychanskyi/cse-455-final-birds
-Training and Prediction Template: https://www.kaggle.com/code/pjreddie/transfer-learning-to-birds-with-resnet18
+Data Preprocessing Template: https://www.kaggle.com/code/yuriihalychanskyi/cse-455-final-birds <br>
+Training and Prediction Template: https://www.kaggle.com/code/pjreddie/transfer-learning-to-birds-with-resnet18 <br>
 Ensemble Template: https://github.com/parkr98/Bird_Identification
 
 ### Comments
