@@ -1,7 +1,7 @@
 # Bird Classification
 
 ## General Result
-We got the 1st place in both the public and private leaderboard, with the accuracy of 88% and 88.212%. See more on https://www.kaggle.com/competitions/birds23sp/leaderboard.
+We got 1st place (1/32) in both the public and private leaderboard during 2023 Spring, with the accuracy of 88% and 88.212%. See more on https://www.kaggle.com/competitions/birds23sp/leaderboard.
 
 ## File Description
 Our code is in `bird-classification.ipynb` <br>
