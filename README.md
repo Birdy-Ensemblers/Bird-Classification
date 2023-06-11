@@ -8,10 +8,11 @@ Our code is in `bird-classification.ipynb` <br>
 A comprehensive description of our project is in `455 Final Project Report.pdf`
 
 ## Some Useful Links
-Website: https://calebhuangsea.github.io./bird/bird.html <br>
+Project Website: https://calebhuangsea.github.io./bird/bird.html <br>
 Video Presentation: https://www.youtube.com/watch?v=KjFzlKsHTUw <br>
 Kaggle Competition Website: https://www.kaggle.com/competitions/birds23sp <br>
-Code on Kaggle: https://www.kaggle.com/code/hqfang/bird-classification
+Code on Kaggle: https://www.kaggle.com/code/hqfang/bird-classification <br>
+CSE 455 Course Website: https://courses.cs.washington.edu/courses/cse455/23sp/
 
 ## Some Code References
 Data Preprocessing Template: https://www.kaggle.com/code/yuriihalychanskyi/cse-455-final-birds <br>
