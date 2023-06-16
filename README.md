@@ -7,13 +7,13 @@ We got 1st place (1/32) in both the public and private leaderboard during 2023 S
 Our code is in `bird-classification.ipynb` <br>
 A comprehensive description of our project is in `455 Final Project Report.pdf`
 
-## Some Useful Links
+## Useful Links
 Project Website: https://calebhuangsea.github.io./bird/bird.html <br>
 Video Presentation: https://www.youtube.com/watch?v=KjFzlKsHTUw <br>
 Kaggle Competition Website: https://www.kaggle.com/competitions/birds23sp <br>
 Code on Kaggle: https://www.kaggle.com/code/hqfang/bird-classification
 
-## Some Code References
+## Code References
 Data Preprocessing Template: https://www.kaggle.com/code/yuriihalychanskyi/cse-455-final-birds <br>
 Training and Prediction Template: https://www.kaggle.com/code/pjreddie/transfer-learning-to-birds-with-resnet18 <br>
 Ensemble Template: https://github.com/parkr98/Bird_Identification
