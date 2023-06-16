@@ -18,5 +18,5 @@ Data Preprocessing Template: https://www.kaggle.com/code/yuriihalychanskyi/cse-4
 Training and Prediction Template: https://www.kaggle.com/code/pjreddie/transfer-learning-to-birds-with-resnet18 <br>
 Ensemble Template: https://github.com/parkr98/Bird_Identification
 
-## Comments
+## Additional Comments
 Since this is a code competition that is held every time [CSE 455](https://courses.cs.washington.edu/courses/cse455/23sp/) is scheduled by Professor [Joseph Redmon](https://pjreddie.com/), we will only post our code skeleton and general ideas to avoid blind copying. We strongly encourage other competitors to explore the data and train different models themselves, so our model weights and prediction results in the test set will not be posted in this repository.
