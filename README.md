@@ -11,8 +11,7 @@ A comprehensive description of our project is in `455 Final Project Report.pdf`
 Project Website: https://calebhuangsea.github.io./bird/bird.html <br>
 Video Presentation: https://www.youtube.com/watch?v=KjFzlKsHTUw <br>
 Kaggle Competition Website: https://www.kaggle.com/competitions/birds23sp <br>
-Code on Kaggle: https://www.kaggle.com/code/hqfang/bird-classification <br>
-CSE 455 Course Website: https://courses.cs.washington.edu/courses/cse455/23sp/
+Code on Kaggle: https://www.kaggle.com/code/hqfang/bird-classification
 
 ## Some Code References
 Data Preprocessing Template: https://www.kaggle.com/code/yuriihalychanskyi/cse-455-final-birds <br>
@@ -20,4 +19,4 @@ Training and Prediction Template: https://www.kaggle.com/code/pjreddie/transfer-
 Ensemble Template: https://github.com/parkr98/Bird_Identification
 
 ## Comments
-Since this is a code competition that is held every time CSE 455 is scheduled by Professor Joseph Redmon, we will only post our code skeleton and general ideas to avoid blind copying. We strongly encourage other competitors to explore the data and train different models themselves, so our model weights and prediction results in the test set will not be posted in this repository.
+Since this is a code competition that is held every time [CSE 455](https://courses.cs.washington.edu/courses/cse455/23sp/) is scheduled by Professor [Joseph Redmon](https://pjreddie.com/), we will only post our code skeleton and general ideas to avoid blind copying. We strongly encourage other competitors to explore the data and train different models themselves, so our model weights and prediction results in the test set will not be posted in this repository.
